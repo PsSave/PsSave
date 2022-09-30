@@ -5,22 +5,22 @@
 
 <!-- ABOUT OF ME -->
 <p align="center" style="text-align: center;">
-Hi, my name is Pedro Samuel and I'm currently 19 years old,<br><br> 🖥 Studying Analysis and systems development and Studying Programming 🖥
+Olá, meu nome é Pedro Samuel e tenho 19 anos,<br><br> 🖥 Studying Analysis and systems development and Studying Programming 🖥
 </p>
 <!-- QUOTE -->
 <br>
 <p align="center">
-"A person who never made a mistake, never tried anything new."
+"Todo o nosso conhecimento se inicia com sentimentos."
 <br>
-― Albert Einstein 🧠
+― Leonardo da Vinci 🧠
 </p>
 
 ##
 
 <div align="center">
   <a href="https://github.com/PsSave">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PsSave&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsSave&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PsSave&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsSave&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ##
