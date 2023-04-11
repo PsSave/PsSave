@@ -1,6 +1,6 @@
 ### Pedro Samuel
 
-- Estou aprendendo no momento Java | HTML | CSS | JavaScript e SQL
+- Estou aprendendo no momento Java | Spring Boot | HTML | CSS | JavaScript e SQL
 ##
 
 <!-- ABOUT OF ME -->
