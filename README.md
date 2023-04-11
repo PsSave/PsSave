@@ -5,7 +5,7 @@
 
 <!-- ABOUT OF ME -->
 <p align="center" style="text-align: center;">
-Olá, meu nome é Pedro Samuel e tenho 19 anos,<br><br> 🖥 Studying Analysis and systems development and Studying Programming 🖥
+Olá, meu nome é Pedro Samuel e tenho 19 anos,<br><br> 🖥 Sou estudante de Análise e Desenvolvimento de Sistemas e Programador 🖥
 </p>
 <!-- QUOTE -->
 <br>
@@ -24,7 +24,7 @@ Olá, meu nome é Pedro Samuel e tenho 19 anos,<br><br> 🖥 Studying Analysis a
 ##
 
 <div align="center">
-  <a href="https://github.com/miltonisaias">
+  <a href="https://github.com/PsSave">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PsSave&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsSave&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -32,5 +32,5 @@ Olá, meu nome é Pedro Samuel e tenho 19 anos,<br><br> 🖥 Studying Analysis a
 ##  
 
 <p align="center">
-- 📫 How to reach me: <a href="mailto:pedrosviki1265@gmail.com">pedrosviki1265@gmail.com</a>
+- 📫 Entre em contato comigo pelo meu email: <a href="mailto:pedrosviki1265@gmail.com">pedrosviki1265@gmail.com</a>
 </p>
