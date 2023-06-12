@@ -23,15 +23,6 @@ Olá, meu nome é Pedro Samuel e tenho 19 anos,<br><br> 🖥 Sou estudante de An
 </div>
 
 ##
-
-<div align="center">
-  <a href="https://github.com/PsSave">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PsSave&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsSave&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-##  
-
 <p align="center">
 - 📫 Entre em contato comigo pelo meu email: <a href="mailto:pedrosviki1265@gmail.com">pedrosviki1265@gmail.com</a>
 </p>
