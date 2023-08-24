@@ -1,6 +1,6 @@
 ### Pedro Samuel
 
-- Tenho conhecimentos com Java | Spring Boot | HTML | CSS | JavaScript e SQL
+- Tenho conhecimentos com Java | Spring Boot | HTML | CSS | JavaScript | React Js e mySQL
 - Estou aprendendo React.
 ##
 
