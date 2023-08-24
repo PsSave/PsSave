@@ -1,7 +1,7 @@
 ### Pedro Samuel
 
 - Tenho conhecimentos com Java | Spring Boot | HTML | CSS | JavaScript | React Js e mySQL
-- Estou aprendendo React.
+- Estou aprendendo React e trabalhando na área como desenvolvedor Front-End.
 ##
 
 <!-- ABOUT OF ME -->
