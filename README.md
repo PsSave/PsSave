@@ -1,7 +1,4 @@
-### Pedro Samuel
 
-- Tenho conhecimentos com JavaScript | React Js | HTML | CSS | Node | SQL & NOSQL
-- Atualmente estágiando como desenvolvedor front-end, lidando de forma direta com pequenos e grandes projetos e usando das melhores praticas do mercado.
 ##
 
 <!-- ABOUT OF ME -->
@@ -16,6 +13,8 @@ Olá, meu nome é Pedro Samuel e tenho 20 anos,<br><br> 🖥 Sou estudante de An
 ― Leonardo da Vinci 🧠
 </p>
 
+- Tenho conhecimentos com JavaScript | React Js | HTML | CSS | Node | SQL & NOSQL
+- Atualmente estágiando como desenvolvedor front-end, lidando de forma direta com pequenos e grandes projetos e usando das melhores praticas do mercado.
 ##
 <div align="center">
   <a href="https://www.instagram.com/0000001save/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
