@@ -1,12 +1,12 @@
 ### Pedro Samuel
 
-- Tenho conhecimentos com Java | Spring Boot | HTML | CSS | JavaScript | React Js e mySQL
-- Estou aprendendo React e trabalhando na área como desenvolvedor Front-End.
+- Tenho conhecimentos com JavaScript | React Js | HTML | CSS | Node | SQL & NOSQL
+- Atualmente estágiando como desenvolvedor front-end, lidando de forma direta com pequenos e grandes projetos e usando das melhores praticas do mercado.
 ##
 
 <!-- ABOUT OF ME -->
 <p align="center" style="text-align: center;">
-Olá, meu nome é Pedro Samuel e tenho 19 anos,<br><br> 🖥 Sou estudante de Análise e Desenvolvimento de Sistemas e Programador 🖥
+Olá, meu nome é Pedro Samuel e tenho 20 anos,<br><br> 🖥 Sou estudante de Análise e Desenvolvimento de Sistemas e Programador 🖥
 </p>
 <!-- QUOTE -->
 <br>
