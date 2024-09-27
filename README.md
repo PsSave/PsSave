@@ -3,7 +3,9 @@
 
 <!-- ABOUT OF ME -->
 <p align="center" style="text-align: center;">
-Olá, meu nome é Pedro Samuel e tenho 20 anos,<br><br> 🖥 Sou estudante de Análise e Desenvolvimento de Sistemas e Programador 🖥
+ Pedro Samuel | Desenvolvedor Front-End<br><br>
+
+🖥 Desenvolvedor Front-End com 20 anos de idade e experiência prática em projetos pequenos e grandes, aplicando as melhores práticas do mercado. Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia e inovação.
 </p>
 <!-- QUOTE -->
 <br>
