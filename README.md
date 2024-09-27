@@ -5,7 +5,7 @@
 <p align="center" style="text-align: center;">
  Pedro Samuel | Desenvolvedor Front-End<br><br>
 
-🖥 Desenvolvedor Front-End com 20 anos de idade e experiência prática em projetos pequenos e grandes, aplicando as melhores práticas do mercado. Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia e inovação.
+🖥 Desenvolvedor Front-End com 21 anos de idade e experiência prática em projetos pequenos e grandes, aplicando as melhores práticas do mercado. Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia e inovação.
 </p>
 <!-- QUOTE -->
 <br>
@@ -15,8 +15,12 @@
 ― Leonardo da Vinci 🧠
 </p>
 
-- Tenho conhecimentos com JavaScript | React Js | HTML | CSS | Node | SQL & NOSQL
-- Atualmente estágiando como desenvolvedor front-end, lidando de forma direta com pequenos e grandes projetos e usando das melhores praticas do mercado.
+- Front-End: ReactJS, Redux, JavaScript, TypeScript, React Native, HTML, CSS, Styled Components
+- Back-End: NodeJS, NestJS, Python, Java
+- Banco de Dados: PostgreSQL, SQL, NoSQL
+- Ferramentas: Git, GitHub
+- Outros: Boas práticas de desenvolvimento, metodologias ágeis
+
 ##
 <div align="center">
   <a href="https://www.instagram.com/0000001save/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
