@@ -15,11 +15,11 @@
 ― Leonardo da Vinci 🧠
 </p>
 
-- Front-End: ReactJS, Redux, JavaScript, TypeScript, React Native, HTML, CSS, Styled Components
-- Back-End: NodeJS, NestJS, Python, Java
-- Banco de Dados: PostgreSQL, SQL, NoSQL
-- Ferramentas: Git, GitHub
-- Outros: Boas práticas de desenvolvimento, metodologias ágeis
+- Front-End: ReactJS, Redux, JavaScript, TypeScript, React Native, HTML, CSS, Styled Components, Tailwind;
+- Back-End: NodeJS, NestJS, Python, Java;
+- Banco de Dados: PostgreSQL, MongoDB, SQL, NoSQL;
+- Ferramentas: Git, GitHub;
+- Outros: Boas práticas de desenvolvimento, metodologias ágeis, Clean Code, SOLID;
 
 ##
 <div align="center">
